@@ -119,3 +119,15 @@ p {
   font-size: 30px;
   margin-right: 5px;
 }
+
+/*//////////////////////////////////////////XML section */
+
+tr{
+  color: rgba(255, 255, 255, 0.9);
+}
+
+th{
+  color:  rgb(150, 65, 255);
+}
+
+
